@@ -19,7 +19,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/Esinkevi/TelegramBot.git
    ```
 
 2. Перейдите в директорию проекта:
@@ -109,17 +109,5 @@
 - **Telegram Bot API**
 - **Binance API**
 
-## Тестирование
 
-Для запуска тестов используйте:
 
-```bash
-mvn test
-```
-
-## Контакты
-
-Если у вас есть вопросы, свяжитесь со мной:
-
-- **Email**: yevhen.sinkevych@gmail.com
-- **Локация**: Одесса, Украина
